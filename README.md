@@ -1,10 +1,14 @@
-### I'm @larshuth 
-- straightforward student
-- thoughtless theoretician
-- dabbling data-analyst
-- germless German
+### I'm @larshuth, when working I consider myself a
+- 💻 straightforward student
+- 📜 thoughtless theoretician
+- 📈 dabbling data-analyst
+- 🦠 germless German
+### while in my free time a
+- 🍴 cheerful cook
+- 🥋 motivated martial artist
+- 🎲 distinguished DnD player
 
-CS Theory is my soul's bread and butter but programming and data processing are nice as well.
+When it comes to studying, CS Theory is my soul's bread and butter but programming and data processing are nice as well.
 
 For samples of my work please refer to my <a href="https://github.com/larshuth/WikimediaLinks-GraphOfTime">2019 bachelor thesis<a> I completed with the Goethe University's Group of Algorithm Engineering or this <a href="https://www.bundesbank.de/resource/blob/826288/d9d65905de96946a53a8254154fb6174/mL/2020-02-contract-generator-data.pdf">technical report<a> I wrote on document automation when I was at the Deutsche Bundesbank Research Data and Service Centre.
 <!---
