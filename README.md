@@ -2,7 +2,7 @@
 - 💻 straightforward student
 - 📜 thoughtless theoretician
 - 📈 dabbling data-analyst
-- 🦠 germless German
+
 ### while in my free time a
 - 🍴 cheerful cook
 - 🥋 motivated martial artist
